@@ -15,7 +15,7 @@
 To replicate or modify this project, you will need the following components:
 
 - Arduino board (e.g., Arduino Uno, Arduino Nano)
-- Keypad (any standard 4x4 or 3x4 keypad will work)
+- Tilt sensor and resistor 220Ω
 
 
 ## Installation
